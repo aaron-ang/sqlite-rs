@@ -1,5 +1,5 @@
 [package]
-name = "sqlite-rust"
+name = "sqlite-rs"
 version = "0.1.0"
 authors = ["Aaron Ang <aaron.angyd@gmail.com>"]
 edition = "2024"

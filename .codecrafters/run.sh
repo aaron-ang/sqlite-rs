@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-exec /tmp/codecrafters-build-sqlite-rust/release/sqlite-rust "$@"
+exec /tmp/codecrafters-build-sqlite-rs/release/sqlite-rs "$@"

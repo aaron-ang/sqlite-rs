@@ -4,7 +4,7 @@ use std::io::{self, BufWriter, IsTerminal, Read, Write};
 use std::path::Path;
 
 use clap::Parser;
-use sqlite_rust::{
+use sqlite_rs::{
     cli::{Cli, DotCommand, UserInput},
     db::SqliteDB,
     query::SqlStatement,
